@@ -13,9 +13,11 @@
 - ``Dizer se o numero escolhido pelo jogador é o mesmo da maquina ``
 - ``Dizer se o número escolhido pelo jogador esta perto do número secreto ``
 
+### ✨ Imagem do Projeto
 
 ![Imagem__Projeto](https://i.pinimg.com/564x/dd/7a/69/dd7a69e7eb9204f4e4ec7978e55de080.jpg)
 
+## 🏷️ Tecnologias 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
