@@ -15,7 +15,7 @@
 
 ### ✨ Imagem do Projeto
 
-![Imagem__Projeto](https://i.pinimg.com/564x/dd/7a/69/dd7a69e7eb9204f4e4ec7978e55de080.jpg)
+![Imagem__Projeto](https://live.staticflickr.com/65535/52246360104_75579da9d7_b.jpg)
 
 ## 🏷️ Tecnologias 
 
